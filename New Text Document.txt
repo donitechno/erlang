@@ -1,6 +1,1 @@
-ini adalah project pertama
-s
-dfsd
-
-
-dsfsdf
+Erlang program
